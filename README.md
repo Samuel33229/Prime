@@ -5,10 +5,10 @@ Mi producto son accesorios y luces led para vehículos
 El objetivo de mi página es demostrarle a los clientes mi producto y sus características y que les interese mi producto
 Nuestras luces son las mejores de Venezuela y siempre estamos atentos para que nuestros clientes estén satisfechos y puedan disfrutar de la bella vista de Veneuela en su vehículo con nuestras luces
 Compra tus luces led Prime y ten 1 año de garantía.
-![Prime inicio](https://github.com/Samuel33229/Prime/assets/108695593/5520a41d-b1fa-4ca3-b597-6e513426adcd)
-![Prime1212](https://github.com/Samuel33229/Prime/assets/108695593/28a618b3-a393-45be-830a-bcbb19b4d0fc)
-![listadeluces](https://github.com/Samuel33229/Prime/assets/108695593/945ed1d4-17ea-45ab-8af5-0d1f21078a14)
-![listadeluces2](https://github.com/Samuel33229/Prime/assets/108695593/298ec5fe-84f5-4fe5-953a-49b21cae96fa)
-![listadeluces3](https://github.com/Samuel33229/Prime/assets/108695593/4de7b8ac-e2fb-4a68-919c-05232c624013)
-![sobrenosotros](https://github.com/Samuel33229/Prime/assets/108695593/45aefc93-b811-4324-9bb3-5bbf756dbc8d)
-![ingreso](https://github.com/Samuel33229/Prime/assets/108695593/9aa2c8d2-9794-4bcb-94d3-ea726851dab0)
+![Prime inicio](https://github.com/Samuel33229/Prime/assets/108695593/47c2d90e-22d3-4e44-a71a-2f1397e80a52)
+![Prime1212](https://github.com/Samuel33229/Prime/assets/108695593/426cd4ce-ad80-42a7-90b6-b3f9c3e5ddfa)
+![listadeluces](https://github.com/Samuel33229/Prime/assets/108695593/045f7aa7-fcc1-4272-ae6f-61128844d6ee)
+![listadeluces2](https://github.com/Samuel33229/Prime/assets/108695593/835f395b-9ecb-4c1d-99ba-736ec5648a46)
+![listadeluces3](https://github.com/Samuel33229/Prime/assets/108695593/31c4cd06-4016-4f8d-a0b0-419e048231ff)
+![sobrenosotros](https://github.com/Samuel33229/Prime/assets/108695593/4b153d5c-eb8e-4ed0-ba5b-5334226d2a09)
+![ingreso](https://github.com/Samuel33229/Prime/assets/108695593/68229656-0638-4bd9-9a48-efe93d7f0f3e)
