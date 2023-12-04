@@ -1,0 +1,135 @@
+/* Sección Prime */
+main{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.luces-sec, .prime-sec, .luces-variado{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.luces-cont, .prime-cont, .contenedor-luces{
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    display: flex;   
+}
+
+
+main hr{
+    width: 85%;
+    background-color: black;
+    border: none;
+    height: 8px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+.img{
+    display: block;
+    height: 100%;
+    width: fit-content;
+    align-items: flex-end;
+}
+
+.logo{
+    width: 170px;
+    margin-left: 30px;
+    display: block;
+    margin-top: 15px;
+}
+.titulo-parrafo{
+    width: 60%;
+    text-align: justify;
+}
+
+.titulo-parrafo h2{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 100vh; 
+    padding: 3px;
+    font-size: 2.5rem;
+    width: fit-content;
+    color: black;
+    margin-bottom: 20px; 
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 1rem;
+    line-height: 25px;
+    margin-top: 10px;
+    margin: auto;
+}
+
+.prime-cont .título-párrafo {
+    width: 72%;
+}
+
+.contenedor-luces .título-párrafo {
+    width: 100%;
+}
+
+/*Estilos de Aprendizaje*/
+
+.luces-sec {
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.luces-cont {
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.contenedor-luces {
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 100vh;
+    padding: 3px;
+    font-size: 2.5rem;
+    width: fit-content;
+    color: black;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+}
+
+.contenedor-luces{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.luces-img-1, .luces-img-3{
+    width: 10em;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
+.luces-img-2{
+    width: 7.5em;
+    margin-right: 30px;
+    margin-top: 15px;
+}
+
+.luces-img-4{
+    width: 12em;
+    margin-right: 30px;
+    margin-top: 15px;
+}

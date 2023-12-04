@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar{
+    width: 10px;
+    background-color: black;
+}
+body::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background-color: deeppink;
+}
+
+/* Estilo del Inicio "Página Prime" */
+
+.inicio{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+    background-image: url(../SRC/fondo\ 1.jpg);
+}
+
+.inicio-cont{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: content;
+    position: relative;
+    margin: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.registro-ingreso{
+    width: 50%;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    right: 13em;
+}
+
+.luces{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.luces img {
+    display: flex;
+    width: 25em;
+    height: 25em;
+    position: relative;
+}
+
+.registro-ingreso h1{
+    color:darkorange;
+    font-family: arial rounded mt;
+    font-size: 2.8rem;
+    width: fit fit-content;
+}   
+.registro-ingreso-btn{
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.registro-ingreso-btn a{
+    padding: 5px 15px 5px 15px;
+    border-radius: 100vh;
+    color: black;
+    font-size: 1.4em;
+    text-decoration: none;
+    justify-content: center;
+    transition: .2s;
+    width: 46%;
+    display: flex;
+    margin: auto;
+}
+
+.btn-c{
+    background-color: white;
+    border: 3px solid black;
+}
+
+.btn-c:hover{
+    color: white;
+    border: 3px solid darkorange;
+    background-color: darkorange;
+    transition: .2s;
+}
+
+.btn-m{
+    background-color: white;
+    border: 3px solid black;
+}
+
+.btn-m:hover{
+    color: white;
+    border: 3px solid darkorange;
+    background-color: darkorange;
+    transition: .2s;
+}
+
